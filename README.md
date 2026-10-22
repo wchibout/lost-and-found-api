@@ -45,7 +45,7 @@ lost-and-found-api/
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
+git clone https://github.com/wchibout/lost-and-found-api
 cd lost-and-found-api
 ```
 
